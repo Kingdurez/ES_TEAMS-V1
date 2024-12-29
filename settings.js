@@ -44,19 +44,19 @@ global.socialm = "GitHub: paskito002" //ur github or insta name
 global.location = "Nigeria, Cross River, Calabar" //ur location
 
 //new
-global.botname = ' `𝐄𝐒 𝐓𝐄𝐀𝐌𝐒 𝐕𝟏`' //ur bot name
-global.ownernumber = ['2349037524605'] //ur owner number, dont add more than one
-global.ownername = '𝗘𝗦 𝗧𝗘𝗔𝗠𝗦 𝗧𝗘𝗖𝗛' //ur owner name
+global.botname = ' `DUREZ MD V1`' //ur bot name
+global.ownernumber = ['2348062641931'] //ur owner number, dont add more than one
+global.ownername = 'LORD DUREZ' //ur owner name
 global.websitex = "https://YouTube.com/@esteams"
 global.wagc = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"
 global.themeemoji = '⛩'
 global.wm = "Es Teams Bot Inc."
 global.botscript = 'https://github.com/paskito002/ES_TEAMS-V1' //script link
 global.packname = "ES TEAMS"
-global.author = "MΛDΣ BY ES TEAMS TECH"
-global.creator = "2349037524605@s.whatsapp.net"
+global.author = "MΛDΣ BY LORD DUREZ TECH"
+global.creator = "2348062641931@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349037524605"] // Premium User
+global.premium = ["2348062641931"] // Premium User
 
 //bot sett
 global.typemenu = 'v2' // menu type 'v1' => 'v12'
